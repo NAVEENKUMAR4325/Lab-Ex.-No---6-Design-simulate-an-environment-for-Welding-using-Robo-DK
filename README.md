@@ -93,7 +93,7 @@ risk of interfering with the robot.
 5. Now the robot retracts normal to the welding path and then straight up
 6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
 
-###Program:
+Program:
 ```
 import sys
 import os
@@ -123,14 +123,18 @@ r.MoveL(p(1685.13,32.5589,6.33493,173.458,-48.1296,-166.856),[-4.1108,-52.2296,1
 r.ProgFinish(r"""Prog1""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
 ```
-###Simulation:
+Simulation:
 ![simulation1](https://github.com/NAVEENKUMAR4325/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/119479566/97b01fb9-71c9-41a3-91a1-8b55e5acf493)
 
+![simulation2](https://github.com/NAVEENKUMAR4325/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/119479566/4e3c7731-aae7-4bce-a4a5-6489e305b08d)
 
 
 
 
 
-### Results of simulation 
+
+
+### Results of simulation:
+
 
 
