@@ -135,6 +135,4 @@ Simulation:
 
 
 ### Results of simulation:
-
-
-
+An environment for welding operation using robodk is Designed & simulated.
